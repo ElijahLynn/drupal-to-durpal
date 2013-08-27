@@ -1,5 +1,5 @@
-drupal-to-durpal
+Drupal to Durpal
 =============
 
-Chrome extension that replaces occurrences of 'Drupal' with 'Durpal'
+Chrome extension that replaces occurrences of 'Drupal' with 'Durpal'.
 
