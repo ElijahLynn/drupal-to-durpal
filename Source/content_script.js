@@ -31,8 +31,8 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bDrupal\b/g, "Durpal");
-	v = v.replace(/\bdrupal\b/g, "durpal");
+	v = v.replace(/\bDrupal\b/g, "Backdrop");
+	v = v.replace(/\bdrupal\b/g, "backdrop");
 	
 	textNode.nodeValue = v;
 }
